@@ -2,7 +2,7 @@
 Copyright rules on Youtube has been one of the most tedious things for content creators.
 
 Millions of false copyright claims have been made by Youtube in the past few years, and the main culprit of this is because songs such as contemporary art is within the public domain but the orchestras that make the music themselves have copyrighted their work.
-<!--
+![Image]([src](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMITO_Orchestra_Sinfonica_RAI.jpg&psig=AOvVaw3qdubS4hBMNTO_3kfC-K1C&ust=1664557631162000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKCG7ey-uvoCFQAAAAAdAAAAABAH))
 **nitromas/nitromas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
