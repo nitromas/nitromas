@@ -6,4 +6,4 @@ Content strikes and demonitization has been happening countlessly for content cr
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/MITO_Orchestra_Sinfonica_RAI.jpg/800px-MITO_Orchestra_Sinfonica_RAI.jpg?20100822173416)
 
 ## Solutions
-To solve for this problem of false copyright claims, there must be some options that can snake around these tacky laws on this copyright. Surely these songs must be accessbile to content creators to use in videos/livestreams. 
+To solve for this problem of false copyright claims, there must be some loopholes that can snake around these tacky laws on this copyright. Surely these songs must be accessbile to content creators to use in videos/livestreams. 
