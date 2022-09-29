@@ -7,3 +7,8 @@ Content strikes and demonitization has been happening countlessly for content cr
 
 ## Solutions
 To solve for this problem of false copyright claims, there must be some loopholes that can snake around these tacky laws on this copyright. Surely these songs must be accessbile to content creators to use in videos/livestreams. 
+Some solutions that can be made to solve this could be:
+- Playing th piece live with your own recording
+- Using copyrighted music and paying for it
+- Asking for permission from the orchestras to use the music
+- Having your own composer create an orchestra and recreate the music with _trained proffessionals_.
