@@ -16,4 +16,4 @@ Some solutions that can be made to solve this could be:
 
 # The Resolution
 To create an end to these copyright strikes, the creators Ludwig and Schlatt have resolved this problem. They have spent tons of money in order to create a permanent solution. The 2 creators were able to hire professional musicians to create an orchestra and recreate some of the most popular contemporary music pieces. As a result, the people of the internet who want to use the copyright free music are free to do so without any problems as long as proper attributionsis given to them.
-[Link](https://www.youtube.com/channel/UCFbtXFIaAJ0fOtgyeDs8Jog)
+[Lud and Schlatts Musical Emporium](https://www.youtube.com/channel/UCFbtXFIaAJ0fOtgyeDs8Jog)
